@@ -107,4 +107,4 @@ If you use this code, please cite the associated paper and the software archive:
 > Martin, R. V. (2026). *A Global Dataset of Surface NO₂ Estimation Based on
 > Machine Learning Using Process-based Information.* Nature Scientific Data (Under Review).
 
-See [CITATION.cff](CITATION.cff) for machine-readable metadata. [Zenodo DOI to be added.]
+See [CITATION.cff](CITATION.cff) for machine-readable metadata.
