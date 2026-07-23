@@ -6,7 +6,7 @@ ground-based observations, and geophysical/land-use predictors.
 
 > **Status:** Research code accompanying the paper *"A Global Dataset of Surface NO₂
 > Estimation Based on Machine Learning Using Process-based Information"*
-> (Yan et al., 2026). Archived release: [Zenodo DOI — to be added].
+> (Yan et al., 2026). Archived release: https://doi.org/10.5281/zenodo.19740022.
 
 ---
 
@@ -105,6 +105,6 @@ If you use this code, please cite the associated paper and the software archive:
 
 > Yan, Y., Shen, S., Zhang, Y., Li, C., Zhu, H., Chatterjee, D., Singh, I., &
 > Martin, R. V. (2026). *A Global Dataset of Surface NO₂ Estimation Based on
-> Machine Learning Using Process-based Information.* [Journal — to be added.]
+> Machine Learning Using Process-based Information.* Nature Scientific Data (Under Review).
 
 See [CITATION.cff](CITATION.cff) for machine-readable metadata. [Zenodo DOI to be added.]
