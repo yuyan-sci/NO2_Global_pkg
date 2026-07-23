@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+title: >-
+  NO2_Global_pkg: A deep-learning pipeline for global surface NO2 estimation
+message: >-
+  If you use this software, please cite both the software (this
+  CITATION file) and the associated paper listed in "preferred-citation".
+type: software
+authors:
+  - given-names: "Yu"
+    family-names: "Yan"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Siyuan"
+    family-names: "Shen"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Yuanjian"
+    family-names: "Zhang"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Chi"
+    family-names: "Li"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Haihui"
+    family-names: "Zhu"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Deepangsu"
+    family-names: "Chatterjee"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Inderjeet"
+    family-names: "Singh"
+    affiliation: "Washington University in St. Louis"
+  - given-names: "Randall V."
+    family-names: "Martin"
+    affiliation: "Washington University in St. Louis"
+repository-code: "https://github.com/yu-washu/NO2_Global_pkg"
+license: MIT
+version: "1.0.0"
+# doi: "10.5281/zenodo.XXXXXXX"   # add after Zenodo mints it
+preferred-citation:
+  type: article
+  title: >-
+    A Global Dataset of Surface NO2 Estimation Based on Machine Learning
+    Using Process-based Information
+  authors:
+    - given-names: "Yu"
+      family-names: "Yan"
+    - given-names: "Siyuan"
+      family-names: "Shen"
+    - given-names: "Yuanjian"
+      family-names: "Zhang"
+    - given-names: "Chi"
+      family-names: "Li"
+    - given-names: "Haihui"
+      family-names: "Zhu"
+    - given-names: "Deepangsu"
+      family-names: "Chatterjee"
+    - given-names: "Inderjeet"
+      family-names: "Singh"
+    - given-names: "Randall V."
+      family-names: "Martin"
+  year: 2026
+  # journal: "[JOURNAL]"
+  # doi: "[PAPER DOI]"

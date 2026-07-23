@@ -1,0 +1,2 @@
+LandCover_buffer_outdir = '/path/to/NO2_DL_global_2019/NO2_global_pkg/input_variables/LandCover_buffer_forEachPixels_input/'
+LandCover_nearest_distance_outdir = '/path/to/NO2_DL_global_2019/NO2_global_pkg/input_variables/LandCover_NearestDistances_forEachPixels_input/'

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data / outputs (not distributed)
+*.nc
+*.h5
+*.npy
+*.npz
+*.dat
+*.png
+*.log
+*.out
+
+# Compiled Fortran artifacts
+*.mod
+*__genmod.f90
+
+# Secrets
+.env
+*.env
+*secret*
+*_apikey*
+*.netrc
+
+# OS
+.DS_Store
+._*
